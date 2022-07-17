@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Form_Login02/static/css/main.64736421.css",
+    "main.js": "/Form_Login02/static/js/main.1d375d0f.js",
+    "static/js/787.5b5dfee8.chunk.js": "/Form_Login02/static/js/787.5b5dfee8.chunk.js",
+    "static/media/art.png": "/Form_Login02/static/media/art.a6cf7101fdb14dac09d4.png",
+    "index.html": "/Form_Login02/index.html",
+    "static/media/apple1.svg": "/Form_Login02/static/media/apple1.568712db98ff3f83690a4e07bfe3d702.svg",
+    "main.64736421.css.map": "/Form_Login02/static/css/main.64736421.css.map",
+    "main.1d375d0f.js.map": "/Form_Login02/static/js/main.1d375d0f.js.map",
+    "787.5b5dfee8.chunk.js.map": "/Form_Login02/static/js/787.5b5dfee8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64736421.css",
+    "static/js/main.1d375d0f.js"
+  ]
+}
